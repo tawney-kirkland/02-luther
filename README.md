@@ -26,6 +26,7 @@ Predicting domestic movie sales prior to movie release
 
 ## Tools Used
 * Pandas
+* Numpy
 * Matplotlib
 * Seaborn
 * Scikit learn
