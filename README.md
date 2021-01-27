@@ -32,7 +32,7 @@ Predicting domestic movie sales prior to movie release
 * Scikit learn
 * Beautiful Soup
 
-## Possible impacts of your project
+## Possible impacts
 Can be used by the film industry to respond to changing environment with the rise of streaming services.
 
 * Studios: Which films to release in theaters versus straight to streaming?
